@@ -1,0 +1,3 @@
+[submodule "teal-types"]
+	path = teal-types
+	url = https://github.com/teal-language/teal-types
